@@ -1,0 +1,41 @@
+.filled-button-property-1-enabled,
+.filled-button-property-1-enabled * {
+  box-sizing: border-box;
+}
+.filled-button-property-1-enabled {
+  background: var(--material-theme-key-colors-primary, #3b5284);
+  border-radius: 8px;
+  padding: 10px 24px 10px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.filled-button-property-1-enabled .button {
+  color: var(--material-theme-color-roles-on-primary, #ffffff);
+  text-align: center;
+  font-family: var(
+    --medium-variant-body-body-medium-font-family,
+    "Roboto-Medium",
+    sans-serif
+  );
+  font-size: var(--medium-variant-body-body-medium-font-size, 14px);
+  line-height: var(--medium-variant-body-body-medium-line-height, 20px);
+  letter-spacing: var(
+    --medium-variant-body-body-medium-letter-spacing,
+    0.0025em
+  );
+  font-weight: var(--medium-variant-body-body-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* nested override styles */
+
+.filled-button-property-1-enabled .home-01-instance {
+  flex-shrink: 0 !important;
+}

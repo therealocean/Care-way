@@ -1,0 +1,43 @@
+.outline-button-property-1-enabled,
+.outline-button-property-1-enabled * {
+  box-sizing: border-box;
+}
+.outline-button-property-1-enabled {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--material-theme-key-colors-primary, #3b5284);
+  border-width: 1px;
+  padding: 10px 24px 10px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.outline-button-property-1-enabled .button {
+  color: var(--material-theme-color-roles-primary, #3b5284);
+  text-align: center;
+  font-family: var(
+    --medium-variant-body-body-medium-font-family,
+    "Roboto-Medium",
+    sans-serif
+  );
+  font-size: var(--medium-variant-body-body-medium-font-size, 14px);
+  line-height: var(--medium-variant-body-body-medium-line-height, 20px);
+  letter-spacing: var(
+    --medium-variant-body-body-medium-letter-spacing,
+    0.0025em
+  );
+  font-weight: var(--medium-variant-body-body-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* nested override styles */
+
+.outline-button-property-1-enabled .home-01-instance {
+  flex-shrink: 0 !important;
+}

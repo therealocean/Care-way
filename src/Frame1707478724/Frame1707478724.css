@@ -1,0 +1,386 @@
+.frame-1707478724,
+.frame-1707478724 * {
+  box-sizing: border-box;
+}
+.frame-1707478724 {
+  padding: 100px 120px 100px 120px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+.frame-1707478724 .ellipse-1 {
+  background: var(--material-theme-key-colors-secondary, #5ba8a0);
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 309px;
+  height: 309px;
+  position: absolute;
+  left: 1237px;
+  top: 6px;
+  filter: blur(250px);
+}
+.frame-1707478724 .frame-1707478730 {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 648px;
+  position: relative;
+}
+.frame-1707478724 .frame-313946 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1707478724 .frame-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1707478724 .find-trusted-healthcare-providers-near-you {
+  text-align: left;
+  font-family: var(
+    --bold-variant-display-display-large-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-display-display-large-font-size, 56px);
+  line-height: var(--bold-variant-display-display-large-line-height, 64px);
+  letter-spacing: var(
+    --bold-variant-display-display-large-letter-spacing,
+    -0.0025em
+  );
+  font-weight: var(--bold-variant-display-display-large-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+}
+.find-trusted-healthcare-providers-near-you-span {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  font-family: var(
+    --bold-variant-display-display-large-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-display-display-large-font-size, 56px);
+  line-height: var(--bold-variant-display-display-large-line-height, 64px);
+  letter-spacing: var(
+    --bold-variant-display-display-large-letter-spacing,
+    -0.0025em
+  );
+  font-weight: var(--bold-variant-display-display-large-font-weight, 700);
+}
+.find-trusted-healthcare-providers-near-you-span2 {
+  color: var(--material-theme-key-colors-primary, #3b5284);
+  font-family: var(
+    --bold-variant-display-display-large-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-display-display-large-font-size, 56px);
+  line-height: var(--bold-variant-display-display-large-line-height, 64px);
+  letter-spacing: var(
+    --bold-variant-display-display-large-letter-spacing,
+    -0.0025em
+  );
+  font-weight: var(--bold-variant-display-display-large-font-weight, 700);
+}
+.find-trusted-healthcare-providers-near-you-span3 {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  font-family: var(
+    --bold-variant-display-display-large-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-display-display-large-font-size, 56px);
+  line-height: var(--bold-variant-display-display-large-line-height, 64px);
+  letter-spacing: var(
+    --bold-variant-display-display-large-letter-spacing,
+    -0.0025em
+  );
+  font-weight: var(--bold-variant-display-display-large-font-weight, 700);
+}
+.frame-1707478724
+  .care-way-connects-patients-with-verified-healthcare-professionals-ensuring-accessibility-transparency-and-quality-care {
+  color: var(--material-theme-color-roles-on-surface-variant, #44464f);
+  text-align: left;
+  font-family: var(
+    --regular-variant-body-body-large-font-family,
+    "Roboto-Regular",
+    sans-serif
+  );
+  font-size: var(--regular-variant-body-body-large-font-size, 16px);
+  line-height: var(--regular-variant-body-body-large-line-height, 24px);
+  letter-spacing: var(
+    --regular-variant-body-body-large-letter-spacing,
+    0.005em
+  );
+  font-weight: var(--regular-variant-body-body-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-1707478724 .header-button-group {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1707478724 .filled-button-instance {
+  flex-shrink: 0 !important;
+}
+.frame-1707478724 .outline-button-instance {
+  flex-shrink: 0 !important;
+}
+.frame-1707478724 .frame-1707478729 {
+  padding: 24px 0px 24px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1707478724 .trusted-by-thousands-of-patients-and-providers {
+  color: var(--material-theme-color-roles-on-surface-variant, #44464f);
+  text-align: left;
+  font-family: var(
+    --regular-variant-body-body-large-font-family,
+    "Roboto-Regular",
+    sans-serif
+  );
+  font-size: var(--regular-variant-body-body-large-font-size, 16px);
+  line-height: var(--regular-variant-body-body-large-line-height, 24px);
+  letter-spacing: var(
+    --regular-variant-body-body-large-letter-spacing,
+    0.005em
+  );
+  font-weight: var(--regular-variant-body-body-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-1707478724 .frame-1707478728 {
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1707478724 .frame-1707478725 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 120px;
+  position: relative;
+}
+.frame-1707478724 ._50-000 {
+  color: var(--material-theme-ref-secondary-secondary20, #003733);
+  text-align: center;
+  font-family: var(
+    --bold-variant-headline-headline-small-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-headline-headline-small-font-size, 24px);
+  line-height: var(--bold-variant-headline-headline-small-line-height, 32px);
+  font-weight: var(--bold-variant-headline-headline-small-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+}
+.frame-1707478724 .patients-served {
+  color: var(--material-theme-color-roles-on-surface-variant, #44464f);
+  text-align: center;
+  font-family: var(
+    --regular-variant-body-body-medium-font-family,
+    "Roboto-Regular",
+    sans-serif
+  );
+  font-size: var(--regular-variant-body-body-medium-font-size, 14px);
+  line-height: var(--regular-variant-body-body-medium-line-height, 20px);
+  letter-spacing: var(
+    --regular-variant-body-body-medium-letter-spacing,
+    0.0025em
+  );
+  font-weight: var(--regular-variant-body-body-medium-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-1707478724 .frame-1707478726 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 143px;
+  position: relative;
+}
+.frame-1707478724 ._10-000 {
+  color: var(--material-theme-ref-secondary-secondary20, #003733);
+  text-align: center;
+  font-family: var(
+    --bold-variant-headline-headline-small-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-headline-headline-small-font-size, 24px);
+  line-height: var(--bold-variant-headline-headline-small-line-height, 32px);
+  font-weight: var(--bold-variant-headline-headline-small-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+}
+.frame-1707478724 .verified-providers {
+  color: var(--material-theme-color-roles-on-surface-variant, #44464f);
+  text-align: center;
+  font-family: var(
+    --regular-variant-body-body-medium-font-family,
+    "Roboto-Regular",
+    sans-serif
+  );
+  font-size: var(--regular-variant-body-body-medium-font-size, 14px);
+  line-height: var(--regular-variant-body-body-medium-line-height, 20px);
+  letter-spacing: var(
+    --regular-variant-body-body-medium-letter-spacing,
+    0.0025em
+  );
+  font-weight: var(--regular-variant-body-body-medium-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-1707478724 .frame-1707478727 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 143px;
+  position: relative;
+}
+.frame-1707478724 ._99 {
+  color: var(--material-theme-ref-secondary-secondary20, #003733);
+  text-align: center;
+  font-family: var(
+    --bold-variant-headline-headline-small-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-headline-headline-small-font-size, 24px);
+  line-height: var(--bold-variant-headline-headline-small-line-height, 32px);
+  font-weight: var(--bold-variant-headline-headline-small-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+}
+.frame-1707478724 .satisfaction-rate {
+  color: var(--material-theme-color-roles-on-surface-variant, #44464f);
+  text-align: center;
+  font-family: var(
+    --regular-variant-body-body-medium-font-family,
+    "Roboto-Regular",
+    sans-serif
+  );
+  font-size: var(--regular-variant-body-body-medium-font-size, 14px);
+  line-height: var(--regular-variant-body-body-medium-line-height, 20px);
+  letter-spacing: var(
+    --regular-variant-body-body-medium-letter-spacing,
+    0.0025em
+  );
+  font-weight: var(--regular-variant-body-body-medium-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-1707478724 .frame-1707478770 {
+  background: rgba(255, 240, 184, 0.2);
+  border-radius: 495px;
+  flex-shrink: 0;
+  width: 66px;
+  height: 66px;
+  position: absolute;
+  left: 466px;
+  top: 215.5px;
+  overflow: hidden;
+}
+.frame-1707478724 .first-aid-kit {
+  width: 39.6px;
+  height: 39.6px;
+  position: absolute;
+  left: 13.2px;
+  top: 13.2px;
+  overflow: visible;
+}
+.frame-1707478724 .image {
+  border-radius: 24px;
+  flex-shrink: 0;
+  width: 579px;
+  height: 495px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-1707478724 .frame-1707478769 {
+  background: rgba(217, 226, 255, 0.2);
+  border-radius: 495px;
+  flex-shrink: 0;
+  width: 66px;
+  height: 66px;
+  position: absolute;
+  left: 737px;
+  top: 58px;
+  overflow: hidden;
+}
+.frame-1707478724 .stethoscope {
+  width: 39.6px;
+  height: 39.6px;
+  position: absolute;
+  left: 13.2px;
+  top: 13.2px;
+  overflow: visible;
+}
+.frame-1707478724 .frame-1707478771 {
+  background: rgba(163, 241, 232, 0.2);
+  border-radius: 495px;
+  flex-shrink: 0;
+  width: 66px;
+  height: 66px;
+  position: absolute;
+  left: 737px;
+  top: 579px;
+  overflow: hidden;
+}
+.frame-1707478724 .health {
+  width: 39.6px;
+  height: 39.6px;
+  position: absolute;
+  left: 13.2px;
+  top: 13.2px;
+  overflow: visible;
+}
+
+/* nested override styles */
+
+.frame-1707478724 .home-01-instance {
+  flex-shrink: 0 !important;
+}

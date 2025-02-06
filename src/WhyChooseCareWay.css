@@ -1,0 +1,250 @@
+.frame-1707478738 {
+    padding: 20px;
+  }
+  
+  .why-choose-care-way {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .why-choose-careway-card {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  .frame-1707478738,
+.frame-1707478738 * {
+  box-sizing: border-box;
+}
+.frame-1707478738 {
+  padding: 80px 120px 80px 120px;
+  display: flex;
+  flex-direction: row;
+  gap: 68px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.image1 {
+  border-radius: 24px;
+  flex-shrink: 0;
+  width: 623px;
+  height: 584px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-1707478737 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 625px;
+  position: relative;
+}
+.why-choose-care-way {
+  text-align: left;
+  font-family: var(
+    --medium-variant-display-display-small-font-family,
+    "Roboto-Medium",
+    sans-serif
+  );
+  font-size: var(--medium-variant-display-display-small-font-size, 36px);
+  line-height: var(--medium-variant-display-display-small-line-height, 44px);
+  font-weight: var(--medium-variant-display-display-small-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.why-choose-care-way-span {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  font-family: var(
+    --medium-variant-display-display-small-font-family,
+    "Roboto-Medium",
+    sans-serif
+  );
+  font-size: var(--medium-variant-display-display-small-font-size, 36px);
+  line-height: var(--medium-variant-display-display-small-line-height, 44px);
+  font-weight: var(--medium-variant-display-display-small-font-weight, 500);
+}
+.why-choose-care-way-span2 {
+  color: var(--material-theme-key-colors-primary, #3b5284);
+  font-family: var(
+    --medium-variant-display-display-small-font-family,
+    "Roboto-Medium",
+    sans-serif
+  );
+  font-size: var(--medium-variant-display-display-small-font-size, 36px);
+  line-height: var(--medium-variant-display-display-small-line-height, 44px);
+  font-weight: var(--medium-variant-display-display-small-font-weight, 500);
+}
+.why-choose-care-way-span3 {
+  color: var(--material-theme-key-colors-secondary, #5ba8a0);
+  font-family: var(
+    --medium-variant-display-display-small-font-family,
+    "Roboto-Medium",
+    sans-serif
+  );
+  font-size: var(--medium-variant-display-display-small-font-size, 36px);
+  line-height: var(--medium-variant-display-display-small-line-height, 44px);
+  font-weight: var(--medium-variant-display-display-small-font-weight, 500);
+}
+.why-choose-care-way-span4 {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  font-family: var(
+    --medium-variant-display-display-small-font-family,
+    "Roboto-Medium",
+    sans-serif
+  );
+  font-size: var(--medium-variant-display-display-small-font-size, 36px);
+  line-height: var(--medium-variant-display-display-small-line-height, 44px);
+  font-weight: var(--medium-variant-display-display-small-font-weight, 500);
+}
+.frame-1707478772 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.why-choose-careway-card {
+  border-radius: 24px;
+  padding: 8px 16px 8px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1707478721 {
+  background: var(--material-theme-color-roles-primary-container, #d9e2ff);
+  border-radius: 300px;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.shield-01 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  overflow: visible;
+}
+.frame-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.verified-provider {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  text-align: left;
+  font-family: var(--headline-18px-font-family, "Roboto-Medium", sans-serif);
+  font-size: var(--headline-18px-font-size, 18px);
+  letter-spacing: var(--headline-18px-letter-spacing, 0.0015em);
+  font-weight: var(--headline-18px-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.all-healthcare-professionals-are-thoroughly-vetted-for-credibility {
+  color: var(--material-theme-color-roles-on-surface-variant, #44464f);
+  text-align: left;
+  font-family: var(
+    --regular-variant-body-body-medium-font-family,
+    "Roboto-Regular",
+    sans-serif
+  );
+  font-size: var(--regular-variant-body-body-medium-font-size, 14px);
+  line-height: var(--regular-variant-body-body-medium-line-height, 20px);
+  letter-spacing: var(
+    --regular-variant-body-body-medium-letter-spacing,
+    0.0025em
+  );
+  font-weight: var(--regular-variant-body-body-medium-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.dollar-01 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  overflow: visible;
+}
+.calendar-add-01 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  overflow: visible;
+}
+.star {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  overflow: visible;
+}
+.frame-1707478738 {
+  display: flex; /* Enable flexbox */
+  justify-content: space-between; /* Ensure the child elements are spaced correctly */
+  align-items: stretch; /* Ensure both children stretch to the same height */
+}
+
+.image-container {
+  flex: 1; /* Ensure the image container takes up available space */
+  display: flex;
+  justify-content: center; /* Center the image horizontally */
+  align-items: center; /* Center the image vertically */
+}
+
+
+
+
+.frame-1707478772 {
+  flex: 1; /* Ensure the text container also takes up available space */
+  display: flex;
+  flex-direction: column; /* Stack the text and cards vertically */
+  justify-content: flex-start; /* Align children to the top */
+}
+
+.why-choose-careway-card {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.frame-1707478721 {
+  margin-right: 10px;
+}
+.frame-32 {
+  display: flex;
+  flex-direction: column;
+}
+
+.verified-providers {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.all-healthcare-professionals-are-thoroughly-vetted-for-credibility {
+  font-size: 14px;
+  color: #666;
+}

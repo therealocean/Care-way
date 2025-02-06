@@ -1,0 +1,95 @@
+.hc-frame,
+.hc-frame * {
+  box-sizing: border-box;
+}
+
+.hc-frame {
+  height: 770px;
+  position: relative;
+  overflow: hidden;
+}
+
+.hc-image {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+  border-radius: 16px;
+  width: 1272px;
+  height: 490px;
+  position: absolute;
+  left: 120px;
+  top: 140px;
+  overflow: hidden;
+}
+
+.hc-frame-content {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 801px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 50%;
+}
+
+.hc-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.hc-title {
+  color: #ffffff; /* Replace with your theme variable if needed */
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 45px; /* Replace with your theme variable if needed */
+  line-height: 64px; /* Replace with your theme variable if needed */
+  font-weight: 700; /* Replace with your theme variable if needed */
+  position: relative;
+  align-self: stretch;
+}
+
+.hc-subtitle {
+  color: #ffffff; /* Replace with your theme variable if needed */
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px; /* Replace with your theme variable if needed */
+  line-height: 24px; /* Replace with your theme variable if needed */
+  letter-spacing: 0.005em; /* Replace with your theme variable if needed */
+  font-weight: 400; /* Replace with your theme variable if needed */
+  position: relative;
+  align-self: stretch;
+}
+
+.hc-filled-button {
+  background: #3b5284; /* Replace with your theme variable if needed */
+  border-radius: 8px;
+  padding: 10px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.hc-button {
+  color: #ffffff; /* Replace with your theme variable if needed */
+  text-align: center;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 14px; /* Replace with your theme variable if needed */
+  line-height: 20px; /* Replace with your theme variable if needed */
+  letter-spacing: 0.0025em; /* Replace with your theme variable if needed */
+  font-weight: 500; /* Replace with your theme variable if needed */
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

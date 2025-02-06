@@ -1,0 +1,111 @@
+.frame-1707478778,
+.frame-1707478778 * {
+    box-sizing: border-box;
+}
+
+.frame-1707478778 {
+    background: var(--material-theme-ref-primary-primary98, #faf8ff);
+    height: 666px;
+    position: relative;
+    overflow: hidden;
+}
+
+.frame-1707478718 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 50%;
+}
+
+.faq {
+    color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+    text-align: center;
+    font-family: var(--medium-variant-display-display-small-font-family, "Roboto-Medium", sans-serif);
+    font-size: var(--medium-variant-display-display-small-font-size, 36px);
+    line-height: var(--medium-variant-display-display-small-line-height, 44px);
+    font-weight: var(--medium-variant-display-display-small-font-weight, 500);
+}
+
+.find-answers-to-the-most-common-questions-about-flutter-pay {
+    color: var(--material-theme-color-roles-on-surface-variant, #44464f);
+    text-align: center;
+    font-family: var(--regular-variant-body-body-large-font-family, "Roboto-Regular", sans-serif);
+    font-size: var(--regular-variant-body-body-large-font-size, 16px);
+    line-height: var(--regular-variant-body-body-large-line-height, 24px);
+    letter-spacing: var(--regular-variant-body-body-large-letter-spacing, 0.005em);
+    font-weight: var(--regular-variant-body-body-large-font-weight, 400);
+}
+
+.frame-313506 {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    justify-content: flex-start;
+    width: 730px;
+    position: relative;
+}
+
+.faq-component {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+}
+
+.frame-287 {
+    background: var(--material-theme-color-roles-primary-container, #d9e2ff);
+    border-radius: 8px 8px 0px 0px;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-self: stretch;
+}
+
+.how-do-i-book-an-appointment {
+    color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+    text-align: center;
+    font-family: var(--regular-variant-body-body-large-font-family, "Roboto-Regular", sans-serif);
+    font-size: var(--regular-variant-body-body-large-font-size, 16px);
+    line-height: var(--regular-variant-body-body-large-line-height, 24px);
+    letter-spacing: var(--regular-variant-body-body-large-letter-spacing, 0.005em);
+    font-weight: var(--regular-variant-body-body-large-font-weight, 400);
+}
+
+.minus {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+}
+
+.frame-288 {
+    background: var(--material-theme-ref-primary-primary95, #edf0ff);
+    border-radius: 0px 0px 8px 8px;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+}
+
+.sign-up-search-for-a-provider-and-select-a-time-slot {
+    color: var(--material-theme-color-roles-on-surface-variant, #44464f);
+    text-align: left;
+    font-family: var(--regular-variant-body-body-large-font-family, "Roboto-Regular", sans-serif);
+    font-size: var(--regular-variant-body-body-large-font-size, 16px);
+    line-height: var(--regular-variant-body-body-large-line-height, 24px);
+    letter-spacing: var(--regular-variant-body-body-large-letter-spacing, 0.005em);
+    font-weight: var(--regular-variant-body-body-large-font-weight, 400);
+    flex: 1;
+}

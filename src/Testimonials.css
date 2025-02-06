@@ -1,0 +1,204 @@
+.frame-1707478758,
+.frame-1707478758 * {
+  box-sizing: border-box;
+}
+.frame-1707478758 {
+  padding: 80px 120px 80px 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.what-our-users-are-saying {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  text-align: center;
+  font-family: var(
+    --medium-variant-display-display-small-font-family,
+    "Roboto-Medium",
+    sans-serif
+  );
+  font-size: var(--medium-variant-display-display-small-font-size, 36px);
+  line-height: var(--medium-variant-display-display-small-line-height, 44px);
+  font-weight: var(--medium-variant-display-display-small-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.frame-1707478757 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-17074787582 {
+  background: var(--material-theme-color-roles-surface, #faf8fd);
+  border-radius: 16px;
+  padding: 40px 24px 40px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 408px;
+  height: 208px;
+  position: relative;
+}
+.frame-313463 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.care-way-made-it-incredibly-easy-to-find-a-reliable-pediatrician-for-my-daughter-the-process-was-quick-and-the-service-was-excellent {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  text-align: center;
+  font-family: var(
+    --regular-variant-body-body-large-font-family,
+    "Roboto-Regular",
+    sans-serif
+  );
+  font-size: var(--regular-variant-body-body-large-font-size, 16px);
+  line-height: var(--regular-variant-body-body-large-line-height, 24px);
+  letter-spacing: var(
+    --regular-variant-body-body-large-letter-spacing,
+    0.005em
+  );
+  font-weight: var(--regular-variant-body-body-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-241 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-237 {
+  border-radius: 300px;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-240 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-238 {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sarah-a {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  text-align: center;
+  font-family: var(
+    --bold-variant-body-body-large-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-body-body-large-font-size, 16px);
+  line-height: var(--bold-variant-body-body-large-line-height, 24px);
+  letter-spacing: var(--bold-variant-body-body-large-letter-spacing, 0.005em);
+  font-weight: var(--bold-variant-body-body-large-font-weight, 700);
+  position: relative;
+}
+.frame-17074787572 {
+  background: var(--material-theme-color-roles-surface, #faf8fd);
+  border-radius: 16px;
+  padding: 40px 24px 40px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 408px;
+  height: 208px;
+  position: relative;
+}
+.as-a-healthcare-provider-this-platform-has-helped-me-connect-with-more-patients-and-manage-my-schedule-seamlessly-highly-recommend {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  text-align: center;
+  font-family: var(
+    --regular-variant-body-body-large-font-family,
+    "Roboto-Regular",
+    sans-serif
+  );
+  font-size: var(--regular-variant-body-body-large-font-size, 16px);
+  line-height: var(--regular-variant-body-body-large-line-height, 24px);
+  letter-spacing: var(
+    --regular-variant-body-body-large-letter-spacing,
+    0.005em
+  );
+  font-weight: var(--regular-variant-body-body-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.james-l {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  text-align: center;
+  font-family: var(
+    --bold-variant-body-body-large-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-body-body-large-font-size, 16px);
+  line-height: var(--bold-variant-body-body-large-line-height, 24px);
+  letter-spacing: var(--bold-variant-body-body-large-letter-spacing, 0.005em);
+  font-weight: var(--bold-variant-body-body-large-font-weight, 700);
+  position: relative;
+}
+.frame-313603 {
+  background: var(--material-theme-color-roles-surface, #faf8fd);
+  border-radius: 16px;
+  padding: 40px 24px 40px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 408px;
+  height: 208px;
+  position: relative;
+}
+.maria-r {
+  color: var(--material-theme-color-roles-on-surface, #1a1b1f);
+  text-align: center;
+  font-family: var(
+    --bold-variant-body-body-large-font-family,
+    "Roboto-Bold",
+    sans-serif
+  );
+  font-size: var(--bold-variant-body-body-large-font-size, 16px);
+  line-height: var(--bold-variant-body-body-large-line-height, 24px);
+  letter-spacing: var(--bold-variant-body-body-large-letter-spacing, 0.005em);
+  font-weight: var(--bold-variant-body-body-large-font-weight, 700);
+  position: relative;
+}

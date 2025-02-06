@@ -1,0 +1,10 @@
+.home-012,
+.home-012 * {
+  box-sizing: border-box;
+}
+.home-012 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}

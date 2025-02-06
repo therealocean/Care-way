@@ -1,0 +1,124 @@
+.frame-stories,
+.frame-stories * {
+    box-sizing: border-box;
+}
+
+.frame-stories {
+    padding: 80px 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.real-stories-from-our-patients {
+    color: #1a1b1f;
+    text-align: center;
+    font-family: "Roboto-Medium", sans-serif;
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 500;
+}
+
+.frame-1707478753 {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center; /* Center align rows */
+    justify-content: flex-start;
+}
+
+.story-row {
+    display: flex; /* Use flexbox to align items side by side */
+    gap: 16px; /* Space between the items */
+    width: 100%; /* Make sure the row takes full width */
+}
+
+.frame-1707478750 {
+    background: #edf0ff;
+    border-radius: 24px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    gap: 8px; /* Space between image and text */
+    align-items: flex-start; /* Align items to the start */
+    justify-content: flex-start;
+}
+
+.frame-1707478750.medium1, 
+.frame-1707478750.medium2 {
+    width: 408px; 
+    height: 504px; /* Maintain height for uniformity */
+}
+
+.frame-1707478750.large1,
+.frame-1707478750.large2 {
+    width: 840px;
+    height: 483px; /* Maintain height for uniformity */
+}
+
+.image {
+    border-radius: 16px;
+    overflow: hidden;
+    position: relative;
+    width: 100%; /* Ensure the image takes full width */
+}
+
+.image img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover;
+}
+
+.play-circle {
+    width: 48px; /* Adjust as needed */
+    height: 48px; /* Adjust as needed */
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.play-icon {
+    width: 24px; /* Adjust size as needed */
+    height: 24px; /* Adjust size as needed */
+}
+
+.headline {
+    color: #1a1b1f;
+    text-align: left; /* Keep text aligned to the left */
+    font-family: "Roboto-Medium", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.frame-1707478749 {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 100%; /* Make the container take full width */
+}
+
+.john-t {
+    color: #44464f;
+    text-align: left; /* Keep text aligned to the left */
+    font-family: "Roboto-Medium", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.mental-health-service {
+    color: #3b3b3d;
+    text-align: left; /* Keep text aligned to the left */
+    font-family: "Roboto-Regular", sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+}
